@@ -1,16 +1,12 @@
-body {
+  body {
     text-align: center;
   }
   span {
     display: inline-block;
-  }
-  /* span {
-    display: inline-block;
     background-color: lightblue;
     padding: 5px;
     border: 1px solid darkgray;
-  } */
-  /* 
+  }
   #one {
     background-color:lightblue;
     width: 150px;
@@ -27,9 +23,9 @@ body {
     background-color: rgb(187, 189, 243);
     width: 175px;
     height: 150px;
-  } */
+  }
   
-  /* div,
+  div,
   span {
     margin: 1px;
   }
@@ -47,4 +43,4 @@ body {
   
   #text span {
     background-color: white;
-  } */
+  }
